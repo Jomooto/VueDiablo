@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import HeaderBar from '../components/HeaderBar/Index'
-import FooterBar from '../components/FooterBar/Index'
+import HeaderBar from '@/components/HeaderBar/Index'
+import FooterBar from '@/components/FooterBar/Index'
 export default {
   name: 'MainLayout',
   components: {

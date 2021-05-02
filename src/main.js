@@ -7,9 +7,10 @@ import router from './router'
 import store from './store'
 import './assets/css/main.styl'
 import './plugins/fontAwesome'
+import './directives'
 
 Vue.config.productionTip = false
-//test para git
+
 new Vue({
   router,
   store,

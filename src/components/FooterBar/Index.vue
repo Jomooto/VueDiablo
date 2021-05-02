@@ -1,6 +1,6 @@
 <template>
   <footer class="footer-bar mt-5">
-    <PoweredByFoot :icons="icons"/>
+    <PoweredByFoot v-bind:icons="icons"/>
 
     <hr class="my-5">
 
